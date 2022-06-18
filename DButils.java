@@ -1,2 +1,2 @@
 Hello Guys..
-db logic added.
+This is the java file which contains the DB connection  logic
